@@ -9,3 +9,6 @@
 
 ### Misc.
 ```Made using C3 + Raylib```
+
+### LICENSE
+```GNU GPLv3```
