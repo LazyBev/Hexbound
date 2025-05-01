@@ -8,4 +8,4 @@
 ```LazyBev```
 
 ## Language of choice
-I will be using C3, which imo is what C++ should've been designed like
+```I will be using C3, which imo is what C++ should've been designed like```
