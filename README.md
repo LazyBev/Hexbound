@@ -8,7 +8,7 @@
 ```GNU GPLv3```
 
 ## Sacrifical Studios
-![image](https://github.com/user-attachments/assets/6c3fb145-b8a7-4a45-88e1-55f68a137772)
+![image](https://github.com/user-attachments/assets/f54565d0-d30b-4cec-b174-5b5628fbab29)
 
 ### Lead Developer
 ```LazyBev```
