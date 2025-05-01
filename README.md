@@ -7,5 +7,5 @@
 ### Lead Artist
 ```LazyBev```
 
-## Language of choice
-```I will be using C3, which imo is what C++ should've been designed like```
+### Misc.
+```Made using C3 + Raylib```
