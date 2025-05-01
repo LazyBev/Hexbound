@@ -7,7 +7,7 @@
 ### LICENSE
 ```GNU GPLv3```
 
-## Sacrifical Studios
+## Monarch Studios
 ![image](https://github.com/user-attachments/assets/f54565d0-d30b-4cec-b174-5b5628fbab29)
 
 ### Lead Developer
