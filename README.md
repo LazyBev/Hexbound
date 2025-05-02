@@ -7,7 +7,7 @@
 ### LICENSE
 ```GNU GPLv3```
 
-## Monarch Studios
+## Behind the game
 ![image](https://github.com/user-attachments/assets/f54565d0-d30b-4cec-b174-5b5628fbab29)
 
 ### Lead Developer
